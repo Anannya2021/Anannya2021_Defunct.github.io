@@ -2,6 +2,15 @@
 title: About
 layout: page
 ---
+
+<h1 id="aboutMe">About me</h1>
+
+<p class="about-buttons">
+  <button id="HumanReadableButton" onclick="showHideAbout('human');" class="general-button active">Human Readable Format</button>
+  <button id="jsonButton" onclick="showHideAbout('json');" class="general-button">JSON Format</button>
+  <button id="YAMLButton" onclick="showHideAbout('yaml');" class="general-button">YAML Format</button>
+</p>
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
