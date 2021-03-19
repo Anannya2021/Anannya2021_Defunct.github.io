@@ -1,7 +1,7 @@
   ---
 title: "Applied Statistics"
 layout: post
-date: 2021-03-19
+date: 2021-03-20
 image: /assets/images/anannya.jpg
 headerImage: true
 tag:
