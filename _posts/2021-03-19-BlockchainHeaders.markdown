@@ -22,6 +22,8 @@ You can pick as item to see how to apply in markdown.
 - [Platforms](#evidence)
 - [Scalability and Performance](#evidence)
 - [Consensus Protocols](#side-by-side)
-- [Smart-Contracts](#star)
+- [Smart-Contracts][1]
+
+[1]: https://daringfireball.net/projects/markdown/
 
 ---
