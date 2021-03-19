@@ -26,7 +26,7 @@ description: Sub topics and research areas
 ---
 
 [1]:https://github.com/Anannya2021/Anannya2021.github.io/blob/gh-pages/assets/2021-03-19-Blockchain_Topic1.markdown
-[2]:https://github.com/Anannya2021/Anannya2021.github.io/blob/gh-pages/assets/2021-03-19-Blockchain_Topic1.markdown
+
 
 
 
