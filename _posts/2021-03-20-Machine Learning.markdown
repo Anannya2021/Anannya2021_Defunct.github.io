@@ -36,6 +36,12 @@ description: Sub topics and research areas
 - [Federated Learning][2]
 
 
+### Optimizating ML models:
+
+Hyperparameter tuning is important for machine learning algorithms to enhance a model's performance. It is a configuration that is experimented by trial and error to discover 
+the parameters that will result in the best predictions. [Hyper-parameter tuning][1]
+
+
 ### User Interface Tools For Learning:
 
 This is an educational sandbox for begineers to learn fundamentals of machine learning intuitively. [Machine Learning Playground][1]
