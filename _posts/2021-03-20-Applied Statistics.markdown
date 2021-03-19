@@ -1,5 +1,5 @@
   ---
-title: "Data Science and Statistical Inference"
+title: "Applied Statistics"
 layout: post
 date: 2021-03-19
 image: /assets/images/anannya.jpg
