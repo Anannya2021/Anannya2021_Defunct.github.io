@@ -3,7 +3,7 @@ title: "Applied Statistics"
 layout: post
 date: 2021-03-19
 image: /assets/images/anannya.jpg
-headerImage: false
+headerImage: true
 tag:
 - machine learning
 - data science
