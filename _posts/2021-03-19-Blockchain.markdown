@@ -16,25 +16,25 @@ description: Sub topics and research areas
 
 ## Blockchain Areas:
 
-- [Platforms](#evidence)
+### Platforms:
+
+- [Permissioned](#evidence)
+- [Permissionless](#evidence)
+
+### Distributed Concepts:
 - [Scalability and Performance](#evidence)
-- [Consensus Protocols](#side-by-side)
-- [Smart-Contracts][1]
+- [Sharding](#evidence)
 
-## Machine Learning Topics:
+### Consensus Protocols:
+- [Proof-Of-Work](#side-by-side)
+- [Proof-Of-Stake](#side-by-side)
 
-- [Data Mining](#evidence)
-- [Supervised Learning](#evidence)
-- [Unsupervised Learning](#side-by-side)
-- [Reinforcement Learning][1]
-- [Federated Learning][2]
+### Data Structures:
+- [Linked Lists][1]
 
-## Statistical Inferences:
+### Smart Contracts:
+- [Truffle][1]
 
-- [Cross-Sectional Data](#evidence)
-- [Time-Series](#evidence)
-- [Panel Data](#side-by-side)
-- [Causal Inference][1]
 
 
 ---
