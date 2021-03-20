@@ -15,12 +15,22 @@ description: Sub topics and research areas
 ---
 
 
-## Statistical Inferences:
+## Statistics:
 
 - [Cross-Sectional Data](#evidence)
 - [Time-Series](#evidence)
 - [Panel Data](#side-by-side)
-- [Causal Inference][1]
+
+### Regression:
+
+- [Assumptions]
+
+
+### Causal Inferences:
+
+- [Use-Cases][1]
+- [Causality in Machine Learning]
+- [Accuracy vs Randomization][1]
 
 
 ---
