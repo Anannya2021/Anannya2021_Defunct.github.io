@@ -35,7 +35,7 @@ This technique involves models training itself on labelled dataset.
 ### Reinforcement Learning:
 
 - [Reinforcement Learning][1]
-- [Federated Learning][2]
+- [Causality][2]
 
 
 ### Optimizating ML models:
