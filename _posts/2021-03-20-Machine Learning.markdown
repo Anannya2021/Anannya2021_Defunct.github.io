@@ -53,7 +53,8 @@ This is an educational sandbox for begineers to learn fundamentals of machine le
 ---
 
 [1]:https://ml-playground.com/
-[2]:https://github.com/Anannya2021/Anannya2021.github.io/blob/gh-pages/assets/2021-03-20-Causality.markdown
+[2]:https://github.com/Anannya2021/Anannya2021.github.io/assets/2021-03-20-Causality.markdown
+
 
 
 
