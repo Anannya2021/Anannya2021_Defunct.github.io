@@ -18,6 +18,7 @@ description: Sub topics and research areas
 
 
 ### Supervised Learning:
+This technique involves models training itself on labelled dataset.
 
 - [Regression](#evidence)
 - [Support Vector Machines](#evidence)
@@ -40,6 +41,7 @@ description: Sub topics and research areas
 
 Hyperparameter tuning is important for machine learning algorithms to enhance a model's performance. It is a configuration that is experimented by trial and error to discover 
 the parameters that will result in the best predictions. [Hyper-parameter tuning][1]
+- [Backpropagation][1]
 
 
 ### User Interface Tools For Learning:
