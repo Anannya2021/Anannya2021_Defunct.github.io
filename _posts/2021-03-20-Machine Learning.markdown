@@ -15,6 +15,7 @@ description: Sub topics and research areas
 ---
 
 ## Machine Learning Topics:
+This area focuses on the algorithms that analyze data to make predictions.
 
 
 ### Supervised Learning:
