@@ -20,8 +20,7 @@ resume-url: https://google.com/?q=my+resume
 # your url: https://USERNAME.github.io
 url: https://anannya2021.github.io
 
-permalink: /:title/
-
+permalink: /:categories/:title/
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
 
