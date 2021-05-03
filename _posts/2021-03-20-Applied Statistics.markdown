@@ -23,7 +23,7 @@ description: Sub topics and research areas
 
 ### Regression:
 
-- [Assumptions]
+- [Confounding Variables][2]
 
 
 ### Causal Inferences:
@@ -36,6 +36,7 @@ description: Sub topics and research areas
 ---
 
 [1]:https://github.com/Anannya2021/Anannya2021.github.io/blob/gh-pages/assets/2021-03-20-Causality.markdown
+[2]:https://statisticsbyjim.com/regression/proxy-variables/
 
 
 
