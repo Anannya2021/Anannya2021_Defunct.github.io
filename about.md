@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-permalink: /about/index.html
+
 ---
 
 <h1 id="aboutMe">About me</h1>
