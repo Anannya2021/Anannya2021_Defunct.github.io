@@ -5,9 +5,16 @@ lang: en
 ref: projects
 ---
 <section class="list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% if site.posts.size == 0%}
+		< p  class = " text-center " > Nothing published yet! </ p >
     {% for post in posts %}
-        {% if post.projects %}
+        {% if if post.category == 'projects'% %}
+             {% if post.hidden! = true%}
+					{% include blog-post.html%}
+				{% endif%}
+			{% endif%}
+		{% endfor%}
+    
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                     <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
@@ -17,3 +24,6 @@ ref: projects
         {% endif %}
     {% endfor %}
 </section>
+
+
+
