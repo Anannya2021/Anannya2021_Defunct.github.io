@@ -4,9 +4,9 @@ layout: post
 date: 2021-05-03
 author: anannya
 lang: en
-ref: webinars-bots-project
+
 img:  /assets/images/anannya.jpg
-headerImage: false
+headerImage: true
 tag: projects
 projects: true
 summary: "Lista dos webinars sobre aplicações conversacionais (bots)"
