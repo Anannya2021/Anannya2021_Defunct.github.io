@@ -10,7 +10,7 @@ headerImage: false
 tag: projects
 projects: true
 summary: "Lista dos webinars sobre aplicações conversacionais (bots)"
-category: project
+category: projects
 ---
 
 
