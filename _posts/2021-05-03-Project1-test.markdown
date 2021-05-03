@@ -1,15 +1,18 @@
 ---
 title: "Webinars sobre bots 📹"
 layout: post
-author: ravpacheco
-lang: pt
+date: 2021-05-03
+author: anannya
+lang: en
 ref: webinars-bots-project
-img: indigo/indigo.png
+img:  /assets/images/anannya.jpg
+headerImage: false
 tag: projects
 projects: true
 summary: "Lista dos webinars sobre aplicações conversacionais (bots)"
 category: project
 ---
+
 
 Desde 2016 temas relacionados às aplicações conversacionais (chabots, ou apenas bots) ganhou um grande destaque no cenário de tecnologia mundial.  
 
