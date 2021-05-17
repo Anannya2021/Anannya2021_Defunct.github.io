@@ -1,7 +1,7 @@
 ---
 layout: post
-title: JSday 2019
-date: 2021-05-17 01:00 +0000
+title: "JSday 2019"
+date: 2021-05-17 
 author: anannya
 category: blog
 headerImage: true
