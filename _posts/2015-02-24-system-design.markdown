@@ -2,8 +2,8 @@
 title: "Big Data Systems Design"
 layout: post
 date: 2021-06-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/anannya.jpg
+headerImage: true
 tag:
 - markdown
 - components
