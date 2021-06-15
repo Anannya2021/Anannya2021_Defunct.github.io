@@ -45,7 +45,7 @@ the parameters that will result in the best predictions. [Hyper-parameter tuning
 - [Backpropagation][1]
 
 
-### User Interface Tools For Learning:
+### Interactive Tools For Learning:
 
 This is an educational sandbox for begineers to learn fundamentals of machine learning intuitively. [Machine Learning Playground][1]
 
